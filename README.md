@@ -1,6 +1,10 @@
-- Hi, I’m @pooja-aryamane
-- I’m interested in AI and ML 
-- My email is pooja.aryamane@gmail.com
+# Hi there, I’m Pooja Aryamane
+## I’m a Data Scientist and a Master of Science in Analytics 
+* 👩‍🎓 Currently a Masters student and deep learning research intern 
+* 🎨 Enjoy painting and creative design 
+* 🤖 Computer vision and deep learning enthusiast
+
+
 
 <!---
 pooja-aryamane/pooja-aryamane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
