@@ -1,8 +1,8 @@
 # Hi there, I’m Pooja Aryamane
-## I’m a Data Scientist and a Master of Science in Analytics 
-* 👩‍🎓 Currently a Masters student and deep learning research intern 
-* 🎨 Enjoy painting and creative design 
-* 🤖 Computer vision and deep learning enthusiast
+## I’m a Data Scientist, pursuing my MS in Data Science at NYU :)  
+* 👩‍🎓 I have over 1 year of experience working in deep learning research, and analytics in business  
+* 🎨 I love to paint, swim, and watch documentaries  
+* 🤖 I'm a computer vision and deep learning enthusiast, and love using my skills in those areas to solve real problems 
 
 
 
